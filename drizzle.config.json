@@ -2,6 +2,6 @@
   "dialect": "postgresql",
   "schema": "./src/db/schema.ts",
   "dbCredentials": {
-    "url": "postgresql://postgres:1432@127.0.0.1:5432/milk_fresh_db"
+    "url": "postgresql://neondb_owner:npg_BKV1xWMhTy3R@ep-ancient-voice-ao83x0qn-pooler.c-2.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
   }
 }
