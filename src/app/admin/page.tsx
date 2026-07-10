@@ -495,7 +495,7 @@ export default function AdminDashboard() {
           <p className="text-center text-xs text-gray-400 mt-4">
             Default key:{" "}
             <code className="bg-gray-100 px-2 py-0.5 rounded">
-              milkfresh-admin-2026
+              milkfresh-xxxxx-2026
             </code>
           </p>
         </div>
