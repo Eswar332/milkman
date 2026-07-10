@@ -35,7 +35,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative h-[500px] md:h-[600px] overflow-hidden">
         <Image
-          src="/images/hero-milk.jpg"
+          src="/products/hero-milk.jpg"
           alt="Fresh dairy products"
           fill
           className="object-cover"
